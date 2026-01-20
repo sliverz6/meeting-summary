@@ -10,15 +10,12 @@
   },
   "dependencies": {
     "next": "16.1.4",
-<<<<<<< HEAD
     "openai": "^6.16.0",
     "react": "19.2.3",
     "react-dom": "19.2.3",
-    "zod": "^4.3.5"
-=======
+    "zod": "^4.3.5",
     "react": "19.2.3",
     "react-dom": "19.2.3"
->>>>>>> cee3ded (Initial commit from Create Next App)
   },
   "devDependencies": {
     "@tailwindcss/postcss": "^4",
